@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GeneralCSharp
-build_property.ProjectDir = C:\Users\MUSAB\source\repos\RecordsInCSharp\GeneralCSharp\
+build_property.ProjectDir = C:\Users\MUSAB\source\repos\Mujahid\CSharp\GeneralCSharp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\",
+  "WorkspaceRootPath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5D90DE3-5603-4C81-A1B4-65137AFA4744}|RecordsInCSharp\\RecordsInCSharp.csproj|c:\\users\\musab\\source\\repos\\recordsincsharp\\recordsincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{573B288B-A615-4CD0-9E63-6252C9BB2FAE}|Encapsulation\\Encapsulation.csproj|c:\\users\\musab\\source\\repos\\mujahid\\csharp\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573B288B-A615-4CD0-9E63-6252C9BB2FAE}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D90DE3-5603-4C81-A1B4-65137AFA4744}|RecordsInCSharp\\RecordsInCSharp.csproj|c:\\users\\musab\\source\\repos\\mujahid\\csharp\\recordsincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5D90DE3-5603-4C81-A1B4-65137AFA4744}|RecordsInCSharp\\RecordsInCSharp.csproj|solutionrelative:recordsincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16919F4C-084F-4190-A008-AF57E7A825E1}|GeneralCSharp\\GeneralCSharp.csproj|c:\\users\\musab\\source\\repos\\recordsincsharp\\generalcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16919F4C-084F-4190-A008-AF57E7A825E1}|GeneralCSharp\\GeneralCSharp.csproj|c:\\users\\musab\\source\\repos\\mujahid\\csharp\\generalcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16919F4C-084F-4190-A008-AF57E7A825E1}|GeneralCSharp\\GeneralCSharp.csproj|solutionrelative:generalcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\GeneralCSharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\CSharp\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\CSharp\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:32:10.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\CSharp\\GeneralCSharp\\Program.cs",
               "RelativeDocumentMoniker": "GeneralCSharp\\Program.cs",
-              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\GeneralCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\CSharp\\GeneralCSharp\\Program.cs",
               "RelativeToolTip": "GeneralCSharp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T06:58:14.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\RecordsInCSharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\CSharp\\RecordsInCSharp\\Program.cs",
               "RelativeDocumentMoniker": "RecordsInCSharp\\Program.cs",
-              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\RecordsInCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\CSharp\\RecordsInCSharp\\Program.cs",
               "RelativeToolTip": "RecordsInCSharp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T06:44:14.116Z",
               "EditorCaption": ""
