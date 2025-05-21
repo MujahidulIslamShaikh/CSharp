@@ -27,7 +27,7 @@ public class Persone
         if(Age <= 0 )
         {
         } else 
-        {
+        {   
             Console.WriteLine($"The age is : {this.Age}");
 
         }

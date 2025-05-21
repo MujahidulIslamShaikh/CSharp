@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordsInCSharp", "RecordsI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralCSharp", "GeneralCSharp\GeneralCSharp.csproj", "{16919F4C-084F-4190-A008-AF57E7A825E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{573B288B-A615-4CD0-9E63-6252C9BB2FAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{573B288B-A615-4CD0-9E63-6252C9BB2FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{60F05105-0662-4F54-AEE6-9449A4E5B399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{573B288B-A615-4CD0-9E63-6252C9BB2FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{573B288B-A615-4CD0-9E63-6252C9BB2FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{573B288B-A615-4CD0-9E63-6252C9BB2FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F05105-0662-4F54-AEE6-9449A4E5B399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F05105-0662-4F54-AEE6-9449A4E5B399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F05105-0662-4F54-AEE6-9449A4E5B399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F05105-0662-4F54-AEE6-9449A4E5B399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
