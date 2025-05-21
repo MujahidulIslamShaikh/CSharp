@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D90DE3-5603-4C81-A1B4-65137AFA4744}|RecordsInCSharp\\RecordsInCSharp.csproj|c:\\users\\musab\\source\\repos\\recordsincsharp\\recordsincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D90DE3-5603-4C81-A1B4-65137AFA4744}|RecordsInCSharp\\RecordsInCSharp.csproj|solutionrelative:recordsincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16919F4C-084F-4190-A008-AF57E7A825E1}|GeneralCSharp\\GeneralCSharp.csproj|c:\\users\\musab\\source\\repos\\recordsincsharp\\generalcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16919F4C-084F-4190-A008-AF57E7A825E1}|GeneralCSharp\\GeneralCSharp.csproj|solutionrelative:generalcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\GeneralCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "GeneralCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\GeneralCSharp\\Program.cs",
+              "RelativeToolTip": "GeneralCSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:58:14.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\RecordsInCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "RecordsInCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\RecordsInCSharp\\RecordsInCSharp\\Program.cs",
+              "RelativeToolTip": "RecordsInCSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:44:14.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

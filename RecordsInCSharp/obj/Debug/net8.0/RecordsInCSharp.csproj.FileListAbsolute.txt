@@ -1,0 +1,14 @@
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\bin\Debug\net8.0\RecordsInCSharp.exe
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\bin\Debug\net8.0\RecordsInCSharp.deps.json
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\bin\Debug\net8.0\RecordsInCSharp.runtimeconfig.json
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\bin\Debug\net8.0\RecordsInCSharp.dll
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\bin\Debug\net8.0\RecordsInCSharp.pdb
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\RecordsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\RecordsInCSharp.AssemblyInfoInputs.cache
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\RecordsInCSharp.AssemblyInfo.cs
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\RecordsInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\RecordsInCSharp.dll
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\refint\RecordsInCSharp.dll
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\RecordsInCSharp.pdb
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\RecordsInCSharp.genruntimeconfig.cache
+C:\Users\MUSAB\source\repos\RecordsInCSharp\RecordsInCSharp\obj\Debug\net8.0\ref\RecordsInCSharp.dll
